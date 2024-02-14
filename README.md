@@ -12,11 +12,13 @@ Speak Results Using Text-to-Speech
 Ensure you have the required libraries installed
 ```bash
 pip install Pillow speedtest pyttsx3
+```
 
 ## Usage
 Run the Python script:
 ```bash
 python internet_speed_test.py
+```
 The app will display the current internet speed metrics.
 
 Click the "Start" button to initiate the speed test.
