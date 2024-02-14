@@ -28,7 +28,9 @@ The download speed, upload speed, and ping latency results will be displayed.
 Click the "Speak" button to hear the results using text-to-speech.
 
 ## Screenshots
-Include screenshots or GIFs demonstrating the functionality and user interface of your app.
+![Screenshot 2024-02-14 091748](https://github.com/ajhalodwala91/Internet-Speed-Testing/assets/108600931/66bc97a8-e6ec-4780-a0f2-69f97fbc7bd5)
+
+![Screenshot 2024-02-14 091737](https://github.com/ajhalodwala91/Internet-Speed-Testing/assets/108600931/847c3d03-55db-486e-a69a-c1c6e0232ff3)
 
 ## Dependencies
 Tkinter
